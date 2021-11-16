@@ -2,7 +2,7 @@
 Mock interview results &amp; feedback I've received on [interviewing.io](https://interviewing.io).
 
 
-![](/images/top.png)
+![](/images/top12.png)
 ![](/images/0.png)
 ![](/images/1.png)
 ![](/images/2.png)
